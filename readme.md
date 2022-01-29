@@ -1,8 +1,11 @@
 CryptoTube - Create your decentralized community on youtube by using algorand blockchain
 
 #install microsoft C++ dev tools
+
 #pip install --upgrade pip
+
 #pip install py-algorand-sdk
+
 
 #Step 1: Turn on the YouTube Data API
 #https://developers.google.com/youtube/v3/quickstart/go
